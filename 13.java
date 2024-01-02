@@ -32,7 +32,7 @@ class CData extends Thread {
     }
 }
 
-public class 13 {
+public class Ex13 {
     public static void main(String[] args) {
         CData d1 = new CData(5, 1500);
         CData d2 = new CData(9, 1000);
